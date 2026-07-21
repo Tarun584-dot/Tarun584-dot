@@ -323,23 +323,31 @@ public class Developer {
 
 <div align="center">
 
-<a href="www.linkedin.com/in/tarun-shetty-78b07025b" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://www.linkedin.com/in/tarun-shetty-78b07025b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:tarunshetty279@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Tarun584-dot">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<a href="https://github.com/Tarun584-dot" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 </div>
+
+<p align="center">
+
+📧 <strong>Email:</strong> tarunshetty279@gmail.com <br>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tarun-shetty-78b07025b">tarun-shetty-78b07025b</a> <br>
+🐙 <strong>GitHub:</strong> <a href="https://github.com/Tarun584-dot">Tarun584-dot</a>
+
+</p>
 
 ---
 
