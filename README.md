@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tarun584-dot/Tarun584-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ TARUN.OS
 
-Here are some ideas to get you started:
+### Booting Developer Profile...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Developer+Environment...;Loading+Java+Engine...;Loading+Python+Runtime...;Starting+React+UI...;Connecting+Node+Backend...;Machine+Learning+Module+Loaded...;Welcome+to+Tarun.OS" />
+
+</div>
+
+---
+
+```text
+╔══════════════════════════════════════════════╗
+║               TARUN.OS v1.0                 ║
+║      Intelligent Developer Workspace        ║
+╚══════════════════════════════════════════════╝
+
+> Booting...
+
+█████████████████████████████████ 100%
+
+✓ Java Engine Loaded
+✓ Python Runtime Loaded
+✓ React UI Loaded
+✓ Node Backend Loaded
+✓ Machine Learning Module Loaded
+
+STATUS : ONLINE 🟢
+```
+
+---
+
+```bash
+> whoami
+```
+
+```yaml
+Name      : Tarun Shetty
+Role      : Computer Science Student
+Focus     : Full Stack Development & Machine Learning
+Location  : Karnataka, India
+Mission   : Build software that solves real-world problems
+Status    : Learning • Building • Improving
+```
+
+---
+
+```bash
+> system-info
+```
+
+| Component | Status |
+|-----------|--------|
+| ☕ Java | ✅ Active |
+| 🐍 Python | ✅ Active |
+| ⚛ React | ✅ Active |
+| 🌐 Node.js | ✅ Active |
+| 🧠 Machine Learning | ✅ Learning |
+| 🗄 MongoDB | ✅ Active |
+| 📊 Data Analytics | ✅ Active |
+
+---
