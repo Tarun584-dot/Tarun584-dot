@@ -27,26 +27,32 @@
 ```
 
 ---
+## 🧑‍💻 About Me
 
-# 🧠 About Me
+```yaml
+Name        : Tarun Shetty
+Education   : B.E. Computer Science Engineering
+Location    : Karnataka, India
 
-```text
-Every repository here tells a story.
+Currently Building
+  → Full Stack Web Applications
+  → Machine Learning Projects
 
-Some were built to solve problems.
-Some were built to learn new technologies.
-Some started as ideas and became complete applications.
+Interested In
+  → Artificial Intelligence
+  → Backend Development
+  → Open Source
 
-I enjoy creating software using Java, React, Python,
-Node.js, and Machine Learning.
-
-My goal is simple:
-Learn continuously.
-Build meaningful projects.
-Become a great software engineer.
+Goal
+  → Become a Software Engineer who builds products
+     that create real-world impact.
 ```
 
----
+💡 **What drives me?**
+
+I enjoy turning ideas into working software. Whether it's a machine learning model, a full-stack web application, or an automation tool, I love understanding how things work and building solutions that are practical, scalable, and user-friendly.
+
+Every project in this profile represents something I learned—not just something I completed.
 
 # ⚙️ Tech Arsenal
 
