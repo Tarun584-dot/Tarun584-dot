@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Tarun Shetty Banner">
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Tarun Shetty
